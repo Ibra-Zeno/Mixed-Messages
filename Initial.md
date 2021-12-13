@@ -1,28 +1,28 @@
 # Discover your fortune
-Simple random sentence generator using ...
+Simple random sentence generator describing a possible fortune using Javascript and the Math module.
 
->Introduction and Project Aims
+---
 
-### Technologies\?
-Languages used, libraries and their versions
-Basically a reference section
+### Technologies
+JavaScript 1.5
 
-
+Math module
 ## Status of Project
 
-## Exmaples of use\?
-**How do we implement that?**  -  *Sp others can use it* 
-Triple backtick
-```
-console.log('Hello');
-```
-## Room for improvement
+Complete with room for improvements.
 
+## Example of use\?
+
+Simply run the code to generate a random message describing your fortune.
+
+An example sentence outputted from the program is 
+>a girlfriend will gut you while you are sitting down at the Earth's edge
+
+## Room for improvement
+The sentence structures can be more complex by addition of words. Further styling to the output would be helpful using CSS and HTML.
 
 ## Sources 
-Coding language documentations
+[JavaScript Documentation](https://developer.mozilla.org/en-US/)
 
 ## Other information
-Contact...
-
-[^1] Create a general template to be
+Contact me on Github under the username *Ibra-Zeno*
