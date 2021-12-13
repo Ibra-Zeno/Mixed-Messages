@@ -1,7 +1,4 @@
-// an example sentence: a major operation will go wrong
-//  a stone will land on your head during peacetime
-//  a trustworthy ally will stab you in the back during a shit
-// a destructive noun will destructive verb sentence while normal verb at normal time/space
+// an example sentence a destructive noun will destructive verb sentence while normal verb at normal time/space
 
 //Create word arrays
 let des_noun = ["honey", "a newspaper", "a fridge", "an opinion", "an audience", "a student", "a passion", 
